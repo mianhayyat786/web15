@@ -1,0 +1,2 @@
+# .vscode
+ its webbase project
